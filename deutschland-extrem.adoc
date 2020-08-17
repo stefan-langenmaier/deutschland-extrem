@@ -1,0 +1,14 @@
+= Deutschland extrem
+Stefan Langenmaier <deutschland-extrem@langenmaier.net>
+v0.0.1-snapshot
+:doctype: book
+:toc:
+
+include::chapters/preface.adoc[]
+
+include::chapters/route-planing.adoc[]
+
+include::chapters/route-segment-corner-d-o-s-to-rainiest.adoc[]
+
+include::chapters/appendix.adoc[]
+

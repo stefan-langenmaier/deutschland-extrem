@@ -1,0 +1,29 @@
+= Anhang
+
+== Werkzeuge
+
+Um die Informationen in diesem Buch zusammenzutragen waren im Vorfeld und im Nachgang mehrere Werkzeuge nötig. Wie immer steht man dabei auf den Schultern von Riesen.
+
+=== Eigener Code
+
+Damit die verschiedenen Werkzeuge alle zusammenkommen ist hier und da etwas Klebstoff nötig. Manchmal ist es auch am schnellsten eine Spielerei einfach selbst auszuprobieren. Die gesammelten Skripte findet man dazu online. footnote:[Eigene Skripte: https://github.com/stefan-langenmaier/deutschland-extrem-scripts]
+
+
+
+=== Concorde
+
+=== Asciidocotor
+
+=== Openstreetmap
+
+=== Rome2Rio
+
+https://www.rome2rio.com
+
+Nützliche Suchmaschine
+
+=== ÖPNV-Karte
+
+https://www.öpnvkarte.de
+
+Darstellung der Öffis aus dem OSM-Material.

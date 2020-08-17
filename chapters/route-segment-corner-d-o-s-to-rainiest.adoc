@@ -1,0 +1,34 @@
+= Streckenabschnitt vom Ländereck Deutschland-Österreich-Schweiz zum regenreichsten Ort
+
+== Überblick
+
+++++
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.de/en/map/streckenabschnitt-vom-landereck-deutschland-osterr_5181?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="https://umap.openstreetmap.de/en/map/streckenabschnitt-vom-landereck-deutschland-osterr_5181">See full screen</a></p>
+++++
+
+== Eckdaten
+
+- Von Konstanz über den Bodensee nach Bregenz
+- Von dort nach Balderschwang
+- Luftlinie 65 km, geschätzte Kosten ca 32 Euro/Person => 0.5 Euro/km
+
+
+== Möglichkeiten
+
+- https://www.mona-allgaeu.de/fahrplaene/suedliches-oberallgaeu
+- https://www.mona-allgaeu.de/fahrplaene/linien-fahrplaene/linienplan-tarifbereich/suedliches-oberallgaeu/
+- https://fahrplan.vmobil.at/
+- https://www.bsb.de/de/fahrplan
+
+
+- BSB Fähre - (Konstanz - Bregenz) - 20 Euro/Person
+- Landbus 25 - (Bregenz - Hittisau) - 6 Euro/Person
+- Mona-Bus-46 (Hittisau-Balderschwang-Oberstdorf) -  6 Euro/Person
+
+== Fehlende OSM Informationen
+
+- Hittisau-Oberstorf ist noch nicht eingetragen
+
+== Tipps
+
+Es gibt auch Tages-/Mehrtageskarten für Mona-Gebiet und Kleinwalsertal.
